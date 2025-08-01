@@ -5,6 +5,8 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 
 ```shell
 rm -rf ~/.config/nvim/
+```
 
-git clone https://github.com/msuadOf/nvim-lazyvim-config ~/.config/nvim
+```shell
+git clone https://github.com/msuadOf/nvim-lazyvim-config --depth=1 ~/.config/nvim
 ```
